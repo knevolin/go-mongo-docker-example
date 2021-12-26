@@ -9,7 +9,6 @@ import (
 	"time"
 
 	"github.com/rs/cors"
-
 	"github.com/gorilla/mux"
 	"gopkg.in/mgo.v2"
 )
